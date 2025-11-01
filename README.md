@@ -1,47 +1,50 @@
-
 # 🎬 MovieManiac
 
-A **movie discovery & information app** built with React (Vite) that lets users explore movies, view details, and discover what’s trending.
+**MovieManiac** is a dynamic and user-friendly movie discovery web app built with **React** and **Vite**. It allows users to explore, search, and discover thousands of movies effortlessly using real-time data fetched from the **TMDB API**. The application focuses on simplicity, speed, and a visually appealing user interface that works seamlessly across all devices.  
+
+With **MovieManiac**, users can browse trending, popular, and top-rated films, view detailed movie information including cast, synopsis, and ratings, and mark favorites for quick access later. The app’s clean modular structure makes it perfect for developers learning React and API integration. Built using **modern web technologies** like Vite, React Hooks, and CSS3, it ensures lightning-fast performance and a smooth, interactive browsing experience.  
+
+MovieManiac is designed not only as a fun entertainment app but also as a great project to demonstrate frontend development, responsive design, and API-handling skills — perfect for portfolios and coding showcases.  
 
 ---
 
 ## 🌐 Live Demo  
-👉 [Your Deployed Website Link Here](https://moviemaniac-three.vercel.app/)  
-*(Replace the above link with your actual deployed URL — e.g., Vercel, Netlify etc.)*
+👉 [Visit MovieManiac](https://moviemaniac-three.vercel.app/)
 
 ---
-## 📸 Preview
+
+## 📸 Preview  
 ![Preview](https://github.com/pintusaw123/Moviemaniac/blob/main/preview.png?raw=true)
 
+---
 
-
+## 🔗 Portfolio  
+👨‍💼 [Pintu Kumar Saw – Portfolio](https://pintu-kumar.vercel.app/)
 
 ---
 
 ## 🧰 Tech Stack
 
 | Category       | Technologies                        |
-|---------------|-------------------------------------|
+|----------------|-------------------------------------|
 | 🧑‍💻 Frontend  | React, Vite, JavaScript (ES6)       |
 | 🎨 Styling     | CSS3, Responsive Design             |
-| 🔍 API         | TMDB API / OMDB API or equivalent   |
+| 🔍 API         | TMDB API / OMDB API                 |
 | ⚙️ Tools       | Git, GitHub, VS Code, npm/yarn      |
 | 🚀 Deployment  | Vercel / Netlify / GitHub Pages     |
 
 ---
 
 ## ✨ Features  
-- ✅ Browse movies by name, genre or popularity  
-- ✅ View detailed movie information: synopsis, cast, ratings  
-- ✅ Responsive UI for desktop + mobile  
-- ✅ Fast performance powered by Vite  
-- ✅ Clean, modular code structure — ideal for learning & extension  
+- 🎞️ Browse movies by title, genre, or popularity  
+- 🧠 Detailed movie info: cast, synopsis, and ratings  
+- 📱 Fully responsive and mobile-friendly design  
+- ⚡ Superfast build powered by Vite  
+- 🧩 Well-structured, beginner-friendly React code  
 
 ---
 
 ## 📦 Installation
-
-To run this project locally, follow these steps:
 
 ```bash
 # Clone this repository
@@ -55,17 +58,9 @@ npm install
 
 # Start the development server
 npm run dev
+---
+📂 Folder Structure
 
-
-📬 Contact
-
-👤 Author: Pintu Kumar Saw
-📧 Email: pintusaw95084@gmail.com
-
-🔗 GitHub: pintusaw123
-
-
-Folder Structure
 Moviemaniac/
 ├── public/
 │   └── index.html
@@ -77,22 +72,15 @@ Moviemaniac/
 │   └── styles/
 ├── package.json
 └── README.md
-
+---
 📬 Contact
 
 👤 Author: Pintu Kumar Saw
+
 📧 Email: pintusaw95084@gmail.com
-
-🔗 GitHub: pintusaw123
+🔗 GitHub: PintuKumarSaw
+🌐 Portfolio: pintu-kumar.vercel.app
+---
 ---
 
-### ✅ What you need to do:
-- Replace the placeholder live demo link with your actual URL.
-- Add a screenshot named `preview.png` in the repository root (or change the path) so it shows under the Preview section.
-- Update your contact email and any personal links.
-- Commit this `README.md` file to your repo: `Moviemaniac`.
-
----
-
-If you like, I can **generate a version with badges** (GitHub stars, build status etc.) and **animated header text**, to give your README a more polished GitHub-look. Would you like that?
-::contentReference[oaicite:1]{index=1}
+Would you like me to add **GitHub badges** (for stars, forks, and live demo) and a **modern header style with emojis & colors** to make your README look like a professional open-source project?
