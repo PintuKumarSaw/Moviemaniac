@@ -14,7 +14,7 @@ MovieManiac is designed not only as a fun entertainment app but also as a great 
 ---
 
 ## 📸 Preview  
-![Preview](https://github.com/pintusaw123/Moviemaniac/blob/main/preview.png?raw=true)
+![Preview](https://github.com/PintuKumarSaw/Moviemaniac/blob/main/preview.png?raw=true)
 
 ---
 
@@ -74,13 +74,17 @@ Moviemaniac/
 └── README.md
 ---
 📬 Contact
-
 👤 Author: Pintu Kumar Saw
-
 📧 Email: pintusaw95084@gmail.com
-🔗 GitHub: PintuKumarSaw
-🌐 Portfolio: pintu-kumar.vercel.app
+🔗 GitHub: https://github.com/PintuKumarSaw
+🌐 Portfolio: https://pintu-kumar.vercel.app
+
 ---
+(same directory as your README.md)
+- The link  
+`https://github.com/PintuKumarSaw/Moviemaniac/blob/main/preview.png?raw=true`  
+will automatically display your image on GitHub once the file is committed.
+
 ---
 
 Would you like me to add **GitHub badges** (for stars, forks, and live demo) and a **modern header style with emojis & colors** to make your README look like a professional open-source project?
