@@ -1,0 +1,70 @@
+/* Movie List Header */
+.movie_list_header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px 30px;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.movie_list_heading {
+  font-size: 26px;
+  color: var(--heading_color);
+  margin: 0;
+}
+
+/* Filter List */
+.movie_filter {
+  list-style: none;
+  font-size: 16px;
+  display: flex;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+}
+
+.movie_filter_item {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.movie_filter_item.active {
+  border-bottom: 2px solid var(--heading_color);
+  font-weight: 500;
+}
+
+/* Sorting */
+.movie_sorting {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: inherit;
+  height: 30px;
+  padding: 0 5px;
+  margin: 0 10px;
+}
+
+/* Movie Cards Container */
+.movie_cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* better alignment on small screens */
+  gap: 15px;
+  padding: 0 30px 30px 30px;
+  margin: 0;
+}
+
+/* Ensure cards don't overlap navbar on small screens */
+@media screen and (max-width: 768px) {
+  .movie_list_header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .movie_cards {
+    padding-top: 10px; /* optional spacing from header */
+  }
+}

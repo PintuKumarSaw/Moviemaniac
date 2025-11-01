@@ -1,0 +1,14 @@
+.app{
+  display:  grid;
+  grid-template-rows:  80px auto;
+}
+
+.main_content {
+  transition: margin-top 0.3s ease;
+}
+
+@media screen and (max-width: 768px) {
+  .main_content.shifted {
+    margin-top: 400px; /* same as navbar_links.active max-height */
+  }
+}
